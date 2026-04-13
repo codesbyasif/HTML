@@ -1,1 +1,1 @@
-<img src="./images/og.png" width="500">
+<img src="./images/og.png" width="1000">
